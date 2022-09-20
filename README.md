@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anurag054
-- 👀 I’m interested in js and c++
-- 🌱 I’m currently learning js and c++
-- 💞️ I’m looking to collaborate on js and c++
+- 👀 I’m interested in Web Apps
+- 🌱 I’m currently learning js and react
+- 💞️ I’m looking to collaborate on projects
 
 
 <!---
